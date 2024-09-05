@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: #2C3A47;
+
+}
+
+.container{
+    
+    width: 700px;
+    height: 50vh;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid #1B9CFC;
+    align-items: center;
+    
+}
+
+.heading{
+    text-align: center;
+    color:white; 
+    font-size: 40px;
+    align-items: center;
+}
+.btn{
+        
+    align-items: center;
+    background-color: #CAD3C8;
+    text-align: center;
+    width: 20%;
+    height: 50px;
+    margin: 20px;
+    padding: 5%;
+    font-size: 1rem;
+    margin-inline:10px;
+    color: #1B9CFC;
+    display: inline;
+    
+}
